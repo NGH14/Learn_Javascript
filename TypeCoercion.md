@@ -41,4 +41,3 @@ console.log(str == num);
 The loose equality operator `==` coerces the string `"42"` into a number before comparing it with the number `42`.
 
 _The log in console_: `true`
-
