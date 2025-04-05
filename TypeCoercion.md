@@ -1,5 +1,3 @@
-----
-
 # [Type coercion](https://developer.mozilla.org/en-US/docs/Glossary/Type_coercion)
 
 Type conversion (or typecasting) means transfer of data from one data type to another. _Implicit conversion_ happens when the compiler (for compiled languages) or runtime (for script languages like [JavaScript](https://developer.mozilla.org/en-US/docs/Glossary/JavaScript)) automatically converts data types. The source code can also _explicitly_ require a conversion to take place.
